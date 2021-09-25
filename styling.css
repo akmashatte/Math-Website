@@ -42,7 +42,7 @@ h1 a{
     padding: 5px;
     font-size: 15px;
     color: #E381A9;
-    background: white url(/search.png)right center no-repeat;
+    background: white url('search.png')right center no-repeat;
     border: 1px solid #C8D09E;
 }
 
@@ -139,12 +139,12 @@ ul{
 
 #leftsidebar ul li{
     padding: 4px 0 4px 10px;
-    list-style-image: url(/arrow.png);
+    list-style-image: url('arrow.png');
 }
 
 #rightsidebar ul li{
     padding: 17px 0 17px 70px;
-    background: url(/tick.png) no-repeat left;
+    background: url('tick.png') no-repeat left;
 }
 
 .sidebar ul li a{
